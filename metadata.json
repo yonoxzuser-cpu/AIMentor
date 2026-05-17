@@ -1,0 +1,11 @@
+{
+  "name": "Remix: VibePresenter Live",
+  "description": "An interactive, YouTube-style educational streaming app where an AI presenter teaches concepts with visual scene descriptions and energetic narration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
